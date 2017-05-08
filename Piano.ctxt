@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Piano
+comment0.text=\r\n\ A\ piano\ that\ can\ be\ played\ with\ the\ computer\ keyboard.\r\n\ \r\n\ @author\ Klavs\ Eglitis\r\n\ Teacher\:\ Mr.\ Hardman\r\n\ Lab\#3,\ Piano\r\n\ @version\ 24.04.2017\r\n
+comment1.params=
+comment1.target=Piano()
+comment1.text=\r\n\ Make\ the\ piano.\r\n
+comment2.params=
+comment2.target=void\ makeKeys()
+comment2.text=\r\n\ makeKeys\ method\ make\ white\ and\ black\ keys\ and\ put\ them\ in\ the\ right\ order\ and\ size.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothings\ is\ returned.\r\n
+comment3.params=
+comment3.target=void\ makeAllKeys()
+comment3.text=\r\n\ makeAllKeys\ makes\ all\ keys\ in\ the\ world\ and\ spread\ them\ evenly.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=downKeys
+comment5.target=void\ checkForSeconds(int[])
+comment5.text=\r\n\ checkForSeconds\ checks\ if\ the\ right\ keys\ for\ Seconds\ are\ pressed\ and\ if\ is,\ shows\ that.\r\n\ @param\ downKeys\ is\ an\ array\ that\ stores\ the\ locations\ of\ pressed\ keys.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment6.params=downKeys
+comment6.target=void\ checkForTriads(int[])
+comment6.text=\r\n\ checkForTriads\ checks\ if\ the\ right\ keys\ for\ Triads\ are\ pressed\ and\ if\ is,\ shows\ that.\r\n\ @param\ downKeys\ is\ an\ array\ that\ stores\ the\ locations\ of\ pressed\ keys.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment7.params=downKeys
+comment7.target=void\ checkForSevenths(int[])
+comment7.text=\r\n\ checkForSevenths\ checks\ if\ the\ right\ keys\ for\ Sevenths\ are\ pressed\ and\ if\ is,\ shows\ that.\r\n\ @param\ downKeys\ is\ an\ array\ that\ stores\ the\ locations\ of\ pressed\ keys.\r\n\ @return\ Nothing\ is\ returned.\r\n
+numComments=8

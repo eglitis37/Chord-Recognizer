@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Key
+comment1.params=keyName\ soundFile\ keyNotPressed\ keyPressed
+comment1.target=Key(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Do\ the\ action\ for\ this\ key.\r\n
+comment3.params=
+comment3.target=void\ play()
+comment3.text=\r\n\ play\ method\ plays\ sound\ when\ pressing\ any\ keyboard\ key.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment4.params=
+comment4.target=boolean\ checkDown()
+comment4.text=\r\n\ checkDown\ whenever\ is\ used,\ returns\ that\ the\ key\ is\ Down.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ isDown\ is\ returned.\r\n
+numComments=5
